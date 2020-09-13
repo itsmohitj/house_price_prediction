@@ -1,1 +1,7 @@
-# house_price_prediction
+# House Price Predictor
+
+## Libraries Used
+- Numpy
+- Pandas
+- Matplotlib
+- Seaborn
